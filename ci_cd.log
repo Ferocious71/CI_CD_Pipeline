@@ -1,0 +1,5 @@
+/bin/sh: 1: /CI_CD/ci_cd_wrapper.sh: Permission denied
+/bin/sh: 1: /CI_CD/ci_cd_wrapper.sh: Permission denied
+/bin/sh: 1: /CI_CD/ci_cd_wrapper.sh: Permission denied
+/bin/sh: 1: /CI_CD/ci_cd_wrapper.sh: Permission denied
+No new changes
